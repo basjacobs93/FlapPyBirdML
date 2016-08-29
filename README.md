@@ -23,9 +23,9 @@ How-to
 Screen recordings
 ----------
 
-Learning from scratch: flappy bird - the beginning.mov
+![Learning from scratch](flappy bird - the beginning.m4v)
 
-After about 20 minutes of training: flappy bird - 114.mov
+![After about 20 minutes of training](flappy bird - 114.m4v)
 
 [1]: https://github.com/sourabhv/FlapPyBird
 [2]: http://www.pygame.org
