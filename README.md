@@ -24,6 +24,7 @@ Screen recordings
 ----------
 
 Learning from scratch: flappy bird - the beginning.mov
+
 After about 20 minutes of training: flappy bird - 114.mov
 
 [1]: https://github.com/sourabhv/FlapPyBird
